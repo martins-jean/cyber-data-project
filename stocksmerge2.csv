@@ -1,0 +1,14 @@
+organisation,Industry_Tag,Country,stock_month_year,monthly_average,records lost,year   ,sector,method,data sensitivity,displayed records,breach_month_year
+peloton,fitness,usa,May 2021,96.04650001525879,"3,000,000",2021,tech,poor security ,2,,May 2021
+nvidia,technology,usa,March 2021,128.51573181152344,"100,000",2021,tech,hacked,2,,March 2021
+spotify,music,usa,December 2020,324.5613639137962,"500,000",2020,app,human error,1,,December 2020
+nintendo,gaming,japan,April 2020,10.474666640872048,"300,000",2020,gaming,hacked,3,"300,000",April 2020
+microsoft,technology,usa,January 2020,158.35645548502603,"250,000,000",2020,tech,poor security,1,"250,000,000",January 2020
+toyota,automotive,japan,April 2019,122.63333384195964,"3,100,000",2019,transport,hacked,2,,April 2019
+amazon,e-commerce,usa,November 2018,81.27418990362258,"5,000,000",2018,retail,human error,1,,November 2018
+target,retail,usa,December 2013,47.625,"70,000,000",2013,retail,hacked,3,,December 2013
+adobe,technology,usa,October 2013,52.400869784147844,"38,000,000",2013,tech,hacked,3,"38,000,000",October 2013
+ubisoft,gaming,france,July 2013,2.9445453773845327,"58,000,000",2013,gaming,hacked,2,,July 2013
+apple,technology,usa,July 2013,13.288950139825994,"275,000",2013,tech,hacked,1,,July 2013
+nintendo,gaming,japan,June 2013,2.6269999861717226,"4,000,000",2013,gaming,hacked,2,,June 2013
+starbucks,food & beverage,usa,November 2008,3.748321206946122,"97,000",2008,retail,lost device ,2,,November 2008
